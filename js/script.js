@@ -1,1 +1,1 @@
-console.log("que miras bobo")
+console.log("que miras")
